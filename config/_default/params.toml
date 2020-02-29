@@ -90,7 +90,7 @@ address = {street = "TaoYuan Street", city = "Shenzhen", region = "Guangdong", p
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "22.591047", longitude = "113.978116"}
+coordinates = {latitude = "22.588", longitude = "113.966"}
 
 # Directions for visitors to locate you.
 directions = "Enter Dormitory Building 10 and take the stairs to 1701A on Floor 17"
@@ -252,8 +252,8 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
-  api_key = ""
+  engine = 3
+  api_key = "pk.eyJ1IjoibWFnaWNhbC1lIiwiYSI6ImNrNmtmbWJ2ODAzcGUzbG43d3p6NTlmenIifQ.G92XlqcsKSsyj5y_pThsag"
   zoom = 15
 
 ############################
