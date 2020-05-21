@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Heming Luo(罗赫铭)
+name: Heming Luo   (罗赫铭)
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ organizations:
   url: "http://www.hitsz.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mobile robotics, human computer interface and human robot interactions.
+# bio: My research interests include mobile robotics, human computer interface   # and human robot interactions.
 
 interests:
 - Mobile Robotics
@@ -60,3 +60,5 @@ email: ""
 ---
 
 I'm a sophomore student of Harbin Institute of Technology,Shenzhen. 
+
+My research interests include mobile robotics, human computer interface and human robot interactions.

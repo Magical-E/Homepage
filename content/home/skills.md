@@ -21,16 +21,16 @@ subtitle = ""
   description = "70%"
 
 [[feature]]
-  icon = "researcherid"
-  icon_pack = "ai"
-  name = "ROS"
-  description = "90%"
-
-[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
   description = "80%"  
+
+[[feature]]
+  icon = "researcherid"
+  icon_pack = "ai"
+  name = "ROS"
+  description = "90%"
 
 [[feature]]
   icon = "linux"
@@ -51,9 +51,21 @@ subtitle = ""
   description = "90%"
 
 [[feature]]
+  icon = "xbox"
+  icon_pack = "fab"
+  name = "Xbox"
+  description = "10%"
+
+[[feature]]
   icon = "steam"
   icon_pack = "fab"
   name = "Steam"
-  description = "10%"
+  description = "20%"
+
+[[feature]]
+  icon = "zhihu"
+  icon_pack = "fab"
+  name = "zhihu"
+  description = "30%"
 
 +++
