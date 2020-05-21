@@ -82,7 +82,7 @@ edit_page = {repo_url = "https://github.com/Magical-E/Homepage", content_dir = "
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "hemingluo8@gmail.com"
-phone = "8613339817751"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
