@@ -22,8 +22,8 @@ organizations:
 
 interests:
 - Mobile Robotics
-#- Artificial Intelligence
-#- Computational Linguistics
+- Human Computer Interface
+- Human Robot Interactions
 
 education:
   courses:
