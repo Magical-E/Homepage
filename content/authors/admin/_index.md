@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Luo Heming
+name: Heming Luo(罗赫铭)
 
 # Username (this should match the folder name)
 authors:
