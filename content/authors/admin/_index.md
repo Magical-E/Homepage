@@ -15,15 +15,15 @@ role: Sophomore Student of Automation
 # Organizations/Affiliations
 organizations:
 - name: Harbin Institute of Technology,Shenzhen
-  url: ""
+  url: "http://www.hitsz.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and #programmable matter.
+bio: My research interests include mobile robotics, human computer interface and human robot interactions.
 
 interests:
 - Mobile Robotics
-- Artificial Intelligence
-- Computational Linguistics
+#- Artificial Intelligence
+#- Computational Linguistics
 
 education:
   courses:
@@ -54,9 +54,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 # Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
+# user_groups:
 #- Researchers
 #- Visitors
 ---
 
-I'm a sophomore student of Harbin Institute of Technology,Shenzhen.My research interests include mobile robotics, robotics and human robot interactions.
+I'm a sophomore student of Harbin Institute of Technology,Shenzhen. 
