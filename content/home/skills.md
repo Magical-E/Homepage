@@ -63,7 +63,7 @@ subtitle = ""
   description = "20%"
 
 [[feature]]
-  icon = "zhihu"
+  icon = "Zhihu"
   icon_pack = "fab"
   name = "zhihu"
   description = "30%"
