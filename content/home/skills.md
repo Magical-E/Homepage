@@ -41,7 +41,7 @@ subtitle = ""
 [[feature]]
   icon = "raspberry-pi"
   icon_pack = "fab"
-  name = "raspberry-pi"
+  name = "Raspberry-pi"
   description = "80%"
 
 [[feature]]
